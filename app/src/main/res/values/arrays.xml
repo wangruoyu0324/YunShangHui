@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tabhostarray">
+        <item>商城</item>
+        <item>资讯</item>
+        <item>购物车</item>
+        <item>我的</item>
+    </string-array>
+
+    <string-array name="kind_homepage">
+        <item>会员升级</item>
+        <item>账户充值</item>
+        <item>区域分类</item>
+        <item>我的订单</item>
+        <item>红包兑换</item>
+        <item>网络学院</item>
+        <item>我的推客</item>
+        <item>身份认证</item>
+    </string-array>
+</resources>
